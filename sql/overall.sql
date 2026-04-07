@@ -1,0 +1,1 @@
+SELECT * FROM houseprice.luxury_housing;
